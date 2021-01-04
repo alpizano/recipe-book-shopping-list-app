@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       "This is a test",
       "https://www.inspiredtaste.net/wp-content/uploads/2018/12/Sauteed-Zucchini-Recipe-1-1200.jpg"
     ),
+    new Recipe(
+      "A Test Recipe 2",
+      "This is a test 2",
+      "https://static01.nyt.com/images/2013/06/26/dining/26JPFLEX1/26JPFLEX1-articleLarge-v3.jpg"
+    ),
   ];
 
   constructor() {}
